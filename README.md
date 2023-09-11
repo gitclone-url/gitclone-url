@@ -85,7 +85,7 @@ While I may not be a professional developer, I'm passionately dedicated to codin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <p align="center"> <b> My GitHub Stats </b> </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitclone-url&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitclone-url&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitclone-url&theme=holi-theme">
 </p>
