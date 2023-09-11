@@ -12,7 +12,9 @@
 
 <div align="center">
   <h1>About Me</h1>
-  
+
+I'm a tech enthusiast with a deep love for cutting-edge technologies and am always eager to explore the latest innovations. 🌟
+
 I have a dream of traveling to every part of the world and experiencing diverse cultures. ✈️
 
 Nature is my escape, and I find solace in the beauty of the natural world. 🌿
@@ -26,8 +28,6 @@ My interests also extend to Android OS and Linux/Unix-like operating systems, wh
 Currently, I'm immersing myself in learning web development, aiming to craft dynamic and responsive websites. 🌐
 
 While I may not be a professional developer, I'm passionately dedicated to coding and love exploring various programming languages to broaden my expertise. 💡
-
-I'm a tech enthusiast with a deep love for cutting-edge technologies and am always eager to explore the latest innovations. 🌟
 
 </div>
 
