@@ -115,8 +115,8 @@ void dailyRoutine() {
              sleep();
           } else {
                   learnNewSkills();
-                  exploreSideProjects();
-               contributeToOpenSource();
+                   exploreSideProjects();
+                     contributeToOpenSource();
             haveFun();
            }
 
