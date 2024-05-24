@@ -80,17 +80,18 @@ While I may not be a professional developer, I'm passionately dedicated to codin
 
 <br>
 
-<div align="center">
+<!-- Github Stats -->
+<p align="center"> <b> My GitHub Stats </b> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<p align="center"> <b> My GitHub Stats </b> </p>
-  
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitclone-url&layout=compact&langs_count=8&theme=midnight-purple)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitclone-url&bg_color=0d1117&text_color=e6f1ff&border_color=254880&custom_title=</>%20Most%20Used%20Languages&card_width=350&langs_count=8&layout=compact&exclude_repo=android_kernel&theme=midnight-purple" />
+  </a>
+</p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitclone-url&theme=holi-theme">
 </p>
 <br>
-</div>
                   
 <h2 align="center">
     <b>Code of Life&#9660;</b>
