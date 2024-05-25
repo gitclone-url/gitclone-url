@@ -89,7 +89,10 @@ While I may not be a professional developer, I'm passionately dedicated to codin
   </a>
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitclone-url&theme=holi-theme">
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitclone-url&theme=holi-theme" />
+  </a>    
 </p>
 <br>
                   
