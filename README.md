@@ -12,23 +12,8 @@
 
 <div align="center">
   <h1>About Me</h1>
-
-I'm a tech enthusiast with a deep love for cutting-edge technologies and am always eager to explore the latest innovations. 🌟
-
-I have a dream of traveling to every part of the world and experiencing diverse cultures. ✈️
-
-Nature is my escape, and I find solace in the beauty of the natural world. 🌿
-
-You can call me an Android Enthusiast 😁. I enjoy tweaking Android phones and exploring the full potential of mobile devices. 📱
-
-In my free time, I love playing games, immersing myself in virtual worlds, and taking on new gaming challenges. 🎮
-
-My interests also extend to Android OS and Linux/Unix-like operating systems, where I enjoy delving into their intricacies. 💻
-
-Currently, I'm immersing myself in learning web development, aiming to craft dynamic and responsive websites. 🌐
-
-While I may not be a professional developer, I'm passionately dedicated to coding and love exploring various programming languages to broaden my expertise. 💡
-
+  
+💻 ᴛᴇᴄʜ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴀɴᴅʀᴏɪᴅ ᴄᴜꜱᴛᴏᴍɪᴢᴀᴛɪᴏɴ, ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴀɴᴅ ᴇxᴘʟᴏʀɪɴɢ ʟɪɴᴜx/ᴜɴɪx ꜱʏꜱᴛᴇᴍꜱ. ᴀꜱᴘɪʀɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴄᴏɴꜱᴛᴀɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ɴᴇᴡ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ. ᴡʜᴇɴ ᴏꜰꜰʟɪɴᴇ, ɪ'ᴍ ɢᴀᴍɪɴɢ, ᴛʀᴀᴠᴇʟɪɴɢ, ᴏʀ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ɴᴀᴛᴜʀᴇ.
 </div>
 
 <br>
@@ -111,32 +96,39 @@ void dailyRoutine() {
              wakeUp();
                breakfast();
              code();
-               lunchBreak();
-                  relax();
-                  spendTimewithFriends();
+               tweakAndroidPhone();
+                  exploreLinux();
+             lunchBreak();
+                  playGames();
+                  chatWithFriends();
                  dinner();
-                 codeMore();
+                 learnWebDev();
              sleep();
           } else {
-                  learnNewSkills();
-                   exploreSideProjects();
-                     contributeToOpenSource();
-            haveFun();
+                  planNextTrip();
+                     connectWithNature();
+            gardenWork();
+           gamingMarathon();
+              hangOutWithFriends();
+                 experimentWithCode();
            }
 
         if (isWeekend()) {
-            weekendActivities();
-            takeABreak();
+            fullAdventureMode();
+              exploreNewPlaces();
+               captureNatureMoments();
+            chill();
+               dreamAboutTraveling();
         }
     }
 }
 
 int main() {
     dailyRoutine();
+    keepExploring();
     return 0;
 }
 ```
-
 <div align="center">
   
 Contact me on [Telegram](https://t.me/PhantomXPain)
